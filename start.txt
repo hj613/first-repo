@@ -1,2 +1,6 @@
 function1();
+<<<<<<< HEAD
 function2();
+=======
+function3();
+>>>>>>> hj
